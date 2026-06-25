@@ -29,8 +29,7 @@ $ npm install
 ## Compile and run the project
 
 ```bash
-# developmen 거너더
-
+# development
 $ npm run start
 
 # watch mode
